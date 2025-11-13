@@ -1,7 +1,9 @@
 # ITCS-6190 Assignment 3: AWS Data Processing Pipeline
-Instructor: Marco Vieira  
-Course: Cloud Computing for Data Analysis (ITCS 6190/8190), Fall 2025
-Name : Atluri Sasi Vadana
+
+**Instructor:** Marco Vieira  
+**Course:** Cloud Computing for Data Analysis (ITCS 6190/8190), Fall 2025  
+**Name:** **Atluri Sasi Vadana**
+
 This README documents the end-to-end build, test, and verification steps for the assignment pipeline:
 S3 → Lambda → Glue Crawler → Athena → EC2 (Flask dashboard).  
 Each major step includes exact console clicks or CLI commands, expected outputs, troubleshooting hints, and a placeholder for the required screenshot.
